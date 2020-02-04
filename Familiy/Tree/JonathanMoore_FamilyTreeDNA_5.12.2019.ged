@@ -1,0 +1,83 @@
+0 HEAD
+1 SOUR 0
+1 SUBM @U1@
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE -LINKED
+1 CHAR ASCII
+0 @U1@ SUBM
+1 NAME X
+0 @I1@ INDI
+1 SEX M
+1 NAME Chatman
+2 GIVN
+2 SURN Chatman
+2 NPFX
+2 NSFX
+0 @I2@ INDI
+1 SEX M
+1 NAME David Moore
+2 GIVN David
+2 SURN Moore
+2 NPFX
+2 NSFX
+0 @I3@ INDI
+1 SEX F
+1 NAME Erlene Little
+2 GIVN Erlene
+2 SURN Little
+2 NPFX
+2 NSFX
+0 @I4@ INDI
+1 SEX F
+1 NAME Helen McNutt
+2 GIVN Helen
+2 SURN McNutt
+2 NPFX
+2 NSFX
+0 @I5@ INDI
+1 SEX F
+1 NAME Charlene Chatman
+2 GIVN Charlene
+2 SURN Chatman
+2 NPFX
+2 NSFX
+0 @I6@ INDI
+1 SEX U
+1 NAME Mr. Jonathan David Moore
+2 GIVN Jonathan
+2 SURN Moore
+2 NPFX Mr.
+2 NSFX
+0 @I7@ INDI
+1 SEX M
+1 NAME Glenn Moore
+2 GIVN Glenn
+2 SURN Moore
+2 NPFX
+2 NSFX
+0 @I8@ INDI
+1 SEX F
+1 NAME Turner
+2 GIVN
+2 SURN Turner
+2 NPFX
+2 NSFX
+0 @F1@ FAM
+1 WIFE @I8@
+1 CHIL @I4@
+0 @F2@ FAM
+1 WIFE @I4@
+1 HUSB @I7@
+1 CHIL @I2@
+0 @F3@ FAM
+1 WIFE @I3@
+1 CHIL @I1@
+0 @F4@ FAM
+1 WIFE @I5@
+1 HUSB @I2@
+1 CHIL @I6@
+0 @F5@ FAM
+1 HUSB @I1@
+1 CHIL @I5@
+0 TRLR
