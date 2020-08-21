@@ -1,0 +1,599 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Andrew Brewer
+N:Brewer;Andrew;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:a-anbrew@microsoft.com
+item1.ORG:Microsoft
+item1.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Arin Clark
+N:Clark;Arin;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:aclark@highlandscsb.org
+TEL;TYPE=WORK:(276) 645-4747
+item1.TEL:(276) 645-4742
+item1.X-ABLabel:workFax
+TEL;TYPE=PAGER:(276) 623-4733
+item2.ORG:Highlands Community Services
+item2.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Avinash Gupta
+N:Gupta;Avinash;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:avinashg@microsoft.com
+item1.ORG:Microsoft
+item1.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Bill Gates
+N:Gates;Bill;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:billg@microsoft.com
+item1.ORG:Microsoft
+item1.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Cassandra Perry Sproles
+N:Sproles;Cassandra;Perry;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:cjp2q@uvawise.edu
+X-MSN;TYPE=HOME:cjp2q@uvawise.edu
+item1.ORG:'The University of Tennessee
+item1.X-ABLabel:Work
+item2.TITLE:Knoxville'
+item2.X-ABLabel:Work
+BDAY:19001217
+NOTE:Follies and nonsense\, whims and inconsistencies do divert me! - Jane 
+ Austen\nLocation: Seymour\, Tennessee\nFacebook: cassandrasproles\nWebsite
+ : \nHometown: Pound\, Virginia
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Computer UW
+N:UW;Computer;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:ugrad-advisor@cswashington.edu
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:David Moore
+N:Moore;David;;;
+TEL;TYPE=HOME:423-914-2810
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Deborah Sproles
+N:Sproles;Deborah;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:dks2n@virginia.edu
+TEL;TYPE=WORK:(276) 619-4313
+item1.TEL:(276) 619-4309
+item1.X-ABLabel:workFax
+ADR;TYPE=WORK:;;1987\n1 Partnership Circle P.O. Box 1987;Abingdon;VA;24212;
+ United States of America;1 Partnership Circle  P.O. Box 1987 Abingdon VA 2
+ 4212-1987 United States of America
+item2.ORG:University of Virginia
+item2.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Edward Sullivan
+N:Sullivan;Edward;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:esullivan@macromedia.com
+item1.ORG:Macromedia
+item1.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Edwin Harris
+N:Harris;Edwin;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:eharris85@hotmail.com
+X-MSN;TYPE=HOME:eharris85@hotmail.com
+TEL;TYPE=CELL:+12765919710
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Eric Moffet
+N:Moffet;Eric;;;
+TEL;TYPE=WORK:(423) 392-6500
+item1.TEL:(423) 392-6504
+item1.X-ABLabel:workFax
+ADR;TYPE=WORK:;;Suite 15 1920 Brookside Drive;Kingsport;Tenn;37660;United S
+ tates of America;1920 Brookside Drive Suite 15 Kingsport Tennessee 37660 U
+ nited States of America
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:G. Duthie
+N:Duthie;G.;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:gduthie@microsoft.com
+item1.ORG:Microsoft
+item1.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Gary Wesley
+N:Wesley;Gary;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:gary@db.stanford.edu
+TEL;TYPE=WORK:(650) 725-3331
+item1.ORG:Stanford
+item1.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Jacqueline Munro
+N:Munro;Jacqueline;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:v-2jmunr@mssupport.microsoft.com
+item1.ORG:Microsoft
+item1.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:James Wardell
+N:Wardell;James;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:jmw7ed@uvawise.edu
+TEL:Voice\:  (276) 376-4528        Fax\: (276) 376-4530
+ADR;TYPE=WORK:;;;;Wise Virginia;24219;United States of America;Wise Virgini
+ a 24219 United States of America
+item1.ORG:University of Virginia's College at Wise
+item1.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Jenn
+N:;Jenn;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:jennw@microsoft.com
+item1.ORG:Microsoft
+item1.X-ABLabel:Work
+NOTE:Recruiter
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Jennifer Smith
+N:Smith;Jennifer;;;
+TEL;TYPE=HOME:(276) 701-0030
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Jenny Brooks
+N:Brooks;Jenny;;;
+TEL;TYPE=WORK:(276) 645-1217
+item1.TEL:(276) 645-1318
+item1.X-ABLabel:workFax
+ADR;TYPE=WORK:;;State Street Financial Center 601 State Street VA7110;Brist
+ ol;VA;24201;United States of America;State Street Financial Center 601 Sta
+ te Street  VA7110 Bristol VA 24201 United States of America
+item2.ORG:Wachovia
+item2.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Joanna Lewis
+N:Lewis;Joanna;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:joannal2@hotmail.com
+X-MSN;TYPE=HOME:JoannaL2@hotmail.com
+TEL;TYPE=CELL:(804) 221-7757
+NOTE:Facebook: \nWebsite: \nHometown: 
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Jon Chang
+N:Chang;Jon;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:jonchang@microsoft.com
+TEL;TYPE=WORK:(408) 439-7778
+item1.ORG:Microsoft
+item1.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Jonathan Moore
+N:Moore;Jonathan;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:jdm7dv@gmail.com
+item1.EMAIL;TYPE=INTERNET:jdm7dv@jonathanmoore.net
+item1.X-ABLabel:
+TEL;TYPE=CELL:276-696-1163
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Justin Bongard
+N:Bongard;Justin;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:justin_b7@msn.com
+EMAIL;TYPE=INTERNET;TYPE=WORK:JBongard@usgs.gov
+X-MSN;TYPE=HOME:justin_b7@msn.com
+TEL;TYPE=HOME:703-444-2215
+TEL;TYPE=CELL:703-727-7971
+TEL;TYPE=PAGER:570-928-9065
+ADR;TYPE=HOME:;;2 Red Wing Ct;Sterling;Virginia;20164;United States;2 Red W
+ ing Ct. Sterling Virginia 20164 United States
+ADR;TYPE=WORK:;;9707\nSummer-home\: Rd.1 Box 184 B;New Albany;PA;18833;Unit
+ ed States;Summer-home\: Rd.1 Box 184 B New Albany PA 18833-9707 United Sta
+ tes
+item1.ORG:'United States Geological Survey'
+item1.X-ABLabel:Work
+item2.TITLE:'Office Automation Clerk'
+item2.X-ABLabel:Work
+BDAY:19890627
+NOTE:Location: Wise\, Virginia\nFacebook: JustinBongard\nWebsite: \nHometow
+ n: Sterling\, Virginia
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Kathrine Hall
+N:Hall;Kathrine;;;
+TEL;TYPE=CELL:(423) 366-3941
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Laura Rush
+N:Rush;Laura;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:LauraR@americanmensa.org
+item1.ORG:Mensa
+item1.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Laura Xu
+N:Xu;Laura;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:lauraxu@microsoft.com
+item1.ORG:Microsoft
+item1.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Lori Muller
+N:Muller;Lori;;;
+TEL;TYPE=CELL:+14233832092
+BDAY:19001019
+NOTE:I believe that everything in life happens for a reason. Never regret a
+ nything you did that once made you smile. Don't ever look at things as mis
+ takes\, only life lessons and LEARN from them. I love random acts of kindn
+ ess. I know that change is always good. I've learned that you should live 
+ everyday as if it were your last. I believe things will fall into place wh
+ en you least expect them to. I'm a hopeless romantic... love makes the wor
+ ld go round... or so the story goes.  Try to always find the humor in life
+ \, it will at least get you through it with a smile.  Surround yourself wi
+ th the people that you love and enjoy them.  Give thanks to God for everyd
+ ay you've been given\, it's a gift.  Try to think positive... you'll be su
+ rprised with the outcomes.  Be yourself no matter what.  Sarcasm is awesom
+ e!  Last\, but definitely not least \: Laughter is the key\; enjoy every m
+ inute of it.\nFacebook: lorimuller\nWebsite: \nHometown: 
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Mark Walker
+N:Walker;Mark;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:mwalker@macromedia.com
+item1.ORG:Macromedia
+item1.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Matthew An
+N:An;Matthew;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:man@macromedia.com
+TEL;TYPE=WORK:(310) 575-4827
+item1.ORG:Macromedia
+item1.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Michael Chauvel
+N:Chauvel;Michael;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:mchauvel@verisign.com
+TEL;TYPE=WORK:(650) 426-3706
+item1.ORG:VeriSign
+item1.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Michael Scherotter
+N:Scherotter;Michael;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:mischero@microsoft.com
+EMAIL;TYPE=INTERNET;TYPE=WORK:mischero@microsoft.com
+X-MSN;TYPE=HOME:michael@xmldocs.net
+TEL;TYPE=HOME:415 456-7753
+TEL;TYPE=WORK:415-972-6700
+TEL;TYPE=CELL:415-250-7551
+item1.TEL:415-785-4353
+item1.X-ABLabel:workFax
+ADR;TYPE=HOME:;;161 Lansdale Avenue;Fairfax;CA;93930;United States;161 Lans
+ dale Avenue Fairfax CA 93930 United States
+ADR;TYPE=WORK:;;161 Lansdale Avenue;Fairfax;CA;94930;United States;161 Lans
+ dale Avenue Fairfax CA 94930 United States
+item2.ORG:Microsoft Corporation
+item2.X-ABLabel:Work
+item3.TITLE:Media Experience Evangelist
+item3.X-ABLabel:Work
+item4.ORG:'Microsoft'
+item4.X-ABLabel:Work
+item5.TITLE:'Principal Architect Evangelist'
+item5.X-ABLabel:Work
+BDAY:19000626
+item6.URL:http\://www.google.com/profiles/101523425320636358792
+item6.X-ABLabel:PROFILE
+NOTE:A husband of 13 years.\nA father of two boys.\nA Media Experience Evan
+ gelist at Microsoft.\nA passion for combining technologies in creative way
+ s.\nLocation: Fairfax\, California\nFacebook: Synergist\nWebsite: \nHometo
+ wn: Palm Springs\, California
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Microsoft
+N:;Microsoft;;;
+TEL;TYPE=WORK:1-800-642-7676
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Mike Wong
+N:Wong;Mike;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:mikewong@microsoft.com
+TEL;TYPE=WORK:(425) 704-3095
+item1.ORG:Microsoft
+item1.X-ABLabel:Work
+item2.ORG:'Microsoft'
+item2.X-ABLabel:Work
+BDAY:19690329
+NOTE:Facebook: \nWebsite: \nHometown: 
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Mitchell Williams
+N:Williams;Mitchell;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:mrw4g@uvswise.edu
+TEL;TYPE=WORK:(276) 619-4312
+item1.TEL:(276) 619-4309
+item1.X-ABLabel:workFax
+ADR;TYPE=WORK:;;P.O. Box 1987;Abingdon;VA;24212;United States of America;P.
+ O. Box 1987 Abingdon VA 24212 United States of America
+item2.ORG:University of Virginia at Wise
+item2.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Mubashir Koul
+N:Koul;Mubashir;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:mubashir.koul@microsoft.com
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+TEL;TYPE=WORK:1-866-391-4357
+item1.ORG:Network Solutions
+item1.X-ABLabel:Work
+item2.URL:http\://www.google.com/profiles/114485431284837322703
+item2.X-ABLabel:PROFILE
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Paige Kelly
+N:Kelly;Paige;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:pkelly@vhcc.edu
+TEL;TYPE=WORK:(276) 739-2438
+item1.TEL:(276) 739-2578
+item1.X-ABLabel:workFax
+ADR;TYPE=WORK:;;0828\nP.O. Box 828;Abingdon;VA;24212;United States of Ameri
+ ca;P.O. Box 828 Abingdon VA 24212-0828 United States of America
+item2.ORG:Virginia Highlands College
+item2.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Patrick Perkins
+N:Perkins;Patrick;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:jpp2s@virginia.edu
+item1.ORG:University of Virginia
+item1.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:PJ Naughter
+N:Naughter;PJ;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:pjna@naughter.com
+ADR;TYPE=WORK:;Clonganny;;Ballygarrett   Gorey;Wexford;;Ireland;Clonganny  
+  Ballygarrett   Gorey  Co. Wexford  Ireland
+item1.ORG:Naughter Software
+item1.X-ABLabel:Work
+item2.ORG:'Transaction Payment Systems'
+item2.X-ABLabel:Work
+BDAY:19710713
+NOTE:Windows Software Developer\nFacebook: \nWebsite: \nHometown: Ballygarr
+ ett\, Wexford\, Ireland
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+TEL;TYPE=WORK:(212) 765-2330
+item1.ORG:Principal Managment
+item1.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Rick Boucher
+N:Boucher;Rick;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:rick@boucherforcongress.com
+TEL;TYPE=WORK:(276) 628-7197
+item1.TEL:(276) 628-9991
+item1.X-ABLabel:workFax
+ADR;TYPE=WORK:;;P.O. Box 2000;Abingdon;VA;24212;United States of America;P.
+ O. Box 2000 Abingdon VA 24212 United States of America
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Rob Chaplan
+N:Chaplan;Rob;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:rob.chaplin@microsoft.com
+TEL;TYPE=WORK:(425) 704-4191
+item1.ORG:Microsoft
+item1.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:robdil@microsoft.com
+N:;robdil@microsoft.com;;;
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Roger Hagy
+N:Hagy;Roger;;;
+item1.ORG:'University of Tennessee
+item1.X-ABLabel:Work
+item2.TITLE:Knoxville'
+item2.X-ABLabel:Work
+BDAY:19000601
+item3.URL:http\://www.google.com/profiles/105936825009257980832
+item3.X-ABLabel:PROFILE
+NOTE:Location: Seymour\, Tennessee\nFacebook: roger.hagy\nWebsite: \nHometo
+ wn: Coeburn\, Virginia
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:rosafucuce@hotmail.com
+N:;rosafucuce@hotmail.com;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:rosafucuce@hotmail.com
+X-MSN;TYPE=HOME:rosafucuce@hotmail.com
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:rosalindnutapi@hotmail.com
+N:;rosalindnutapi@hotmail.com;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:rosalindnutapi@hotmail.com
+X-MSN;TYPE=HOME:rosalindnutapi@hotmail.com
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Rudy Hoffman
+N:Hoffman;Rudy;;;
+TEL;TYPE=WORK:1-800-749-3773
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Sandy Ratliff
+N:Ratliff;Sandy;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:sandy.ratliff@vdba.virginia.gov
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Sarah Rasnake
+N:Rasnake;Sarah;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:sarah_snake007@msn.com
+X-MSN;TYPE=HOME:sarah_snake007@msn.com
+NOTE:Facebook: sarah.rasnake\nWebsite: \nHometown: 
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Stephen Domyan
+N:Domyan;Stephen;;;
+item1.ORG:'Wachovia'
+item1.X-ABLabel:Work
+item2.TITLE:'Teller'
+item2.X-ABLabel:Work
+BDAY:19880330
+NOTE:\"When I meet new people\, especially girls I want to fuck\, I usually
+  like to talk to them about themselves\, probe into their lives and figure
+  out their personality.  It's always interesting to see if I can get them 
+ to open up and discover the things they were trying to keep hidden.  Sex i
+ s only one part of the enjoyment of another person\, after all.  If I didn
+ 't learn about their hidden dysfunction\, how else would I know how to man
+ ipulate them?\"\nLocation: Wise\, Virginia\nFacebook: \nWebsite: \nHometow
+ n: Midlothian\, Virginia
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Steve Ballmer
+N:Ballmer;Steve;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:steveballmer@ceo.microsoft.com
+item1.ORG:Microsoft
+item1.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Sudeep Gopalakrishnan
+N:Gopalakrishnan;Sudeep;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:sudeepg@microsoft.com
+item1.ORG:Microsoft
+item1.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Thomas Cantwell
+N:Cantwell;Thomas;;;
+TEL;TYPE=HOME:(276) 669-3339
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Tudor
+N:;Tudor;;;
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+TEL;TYPE=WORK:(212) 841-8000
+item1.TEL:(212) 331-2580
+item1.X-ABLabel:workFax
+ADR;TYPE=WORK:;;1755 Broadway;New York;NY;10019;United States of America;17
+ 55 Broadway New York NY 10019 United States of America
+item2.ORG:Universal Music Group
+item2.X-ABLabel:Work
+item3.URL:http\://www.google.com/profiles/116447218518656158381
+item3.X-ABLabel:PROFILE
+CATEGORIES:myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Wang Lam
+N:Lam;Wang;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:wlam@CS.Stanford.EDU
+item1.ORG:Stanford
+item1.X-ABLabel:Work
+CATEGORIES:myContacts
+END:VCARD
